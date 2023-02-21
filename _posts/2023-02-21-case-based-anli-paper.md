@@ -36,8 +36,6 @@ We empirically evaluate the abductive framework on commonsense and scientific qu
 
 ## Reproducibility
 
-Welcome! :) 
-
 In this document, you can find the guidlines to reproduce the [CB-ANLI model](https://aclanthology.org/2022.coling-1.134/) presented at COLING 2022.
 
 **Setup:**
