@@ -1,0 +1,121 @@
+[
+    {
+        "name": "André Freitas",
+        "position": "Senior Lecturer",
+        "photo": "andre.webp",
+        "e-mail": "andre.freitas",
+        "bio": "André Freitas leads the Reasoning & Explainable AI group at Idiap and at the Department of Computer Science at the University of Manchester. He is also the AI group leader at the digital Experimental Cancer Medicine Team (CancerResearchUK). His main research interests are on enabling the development of AI methods to support abstract, explainable and flexible inference. In particular, he investigates how the combination of neural and symbolic data representation paradigms can deliver better inference. Some of his research topics include: explanation generation, natural language inference, explainable question answering, knowledge graphs and open information extraction. He is actively engaged in collaboration projects with industrial and clinical partners."
+    },
+    {
+        "name": "Alex Bogatu",
+        "position": "Research Associate",
+        "photo": "alex.png",
+        "e-mail": "",
+        "bio": ""
+    },
+    {
+        "name": "Danilo Carvalho",
+        "position": "Research Associate",
+        "photo": "danilo.jpg",
+        "e-mail": "danilo.carvalho",
+        "bio": "Danilo Carvalho is a Research Associate in the Department of Computer Science at the University of Manchester. He is part of the EnnCore project, focusing on safe and explainable AI architectures. His background is in Natural Language Processing / Computational Linguistics, holding a PhD in Information Science from the Japan Advanced Institute of Science and Technology (JAIST). He has previous industry experience, having worked as a systems analyst within Brazilian state oil company (Petrobras) on job safety analysis (JSA) and environmental licensing control systems. His other research interests include Parallel and Distributed Computing and Software Engineering."
+    },
+    {
+        "name": "Edoardo Manino",
+        "position": "Research Associate",
+        "photo": "edoardo.jpg",
+        "e-mail": "",
+        "bio": "Edoardo Manino is a Research Associate in the Department of Computer Science at the University of Manchester. He is part of the EnnCore project and focuses on automated verification of neural network architectures. His background is in Bayesian machine learning, a topic he recently got awarded a PhD from the University of Southampton. His other research interests range from network science to algorithmic game theory and reinforcement learning."
+    },
+    {
+        "name": "Zili Zhou",
+        "position": "Research Associate",
+        "photo": "zili.webp",
+        "e-mail": "",
+        "bio": "Zili Zhou is a postdoctoral researcher at the Department of Computer Science of the University of Manchester and at the Digital Experimental Cancer Medicine Team (dECMT). Currently, he works on both Knowledge Inference based NLP system and clinical decision support system. Prior to the University of Manchester, he obtained his Ph.D. degree in Computer Science from the University of Technology Sydney, he studied and designed several methods and solutions in the area of Knowledge Graph Embedding and Application. His research interest includes Knowledge Graph Inference, Knowledge Graph Application, Network Embedding Learning, and Data Analytics."
+    },
+    {
+        "name": "Marco Valentino",
+        "position": "Post-doctoral Researcher",
+        "photo": "marco.webp",
+        "e-mail": "",
+        "bio": "Marco is a PhD student in Computer Science at the University of Manchester. His main research topic is the development of explainable reasoning models for natural language inference in the scientific domain. Before starting his PhD, Marco was a research assistant at the Consiglio Nazionale delle Ricerche (CNR) in Italy. He obtained both master and bachelor’s degree in Computer Science at the University of Naples Federico II."
+    },
+    {
+        "name": "Guy Clarke Marshall",
+        "position": "PhD Researcher",
+        "photo": "guy.webp",
+        "e-mail": "",
+        "bio": "Guy Marshall is a PhD researcher at the Department of Computer Science at the University of Manchester. Guy studied Mathematics at the University of Cambridge, specialising in General Relativity. He continued his studies at Kings College London, obtaining an MSc in Theoretical Physics, completing a prize-winning dissertation on m-branes (a unification of String Theory). He is currently working on diagrammatic representations of AI systems. A Chartered Mathematician, and webmaster for Manchester Statistical Society, Guy is committed to improving the utilisation of mathematical skills in unusual places."
+    },
+    {
+        "name": "Giangiacomo Mercatali",
+        "position": "PhD Researcher",
+        "photo": "gian.webp",
+        "e-mail": "",
+        "bio": "Gian Mercatali received the BSc and MSc degrees in Computer Science respectively from the University of Bologna, Italy and the University of Manchester, UK. He is a doctoral candidate in the Department of Computer Science at the University of Manchester since 2019, working in the AI Systems group. His current main research interest include: Interpretable & Probabilistic Machine Learning for NLP. Specifically, he is focusing on (1) deep generative models for controllable natural-language explanation generation and (2) improving NLP interpretability with disentangled representation learning."
+    },
+    {
+        "name": "Hanadi Mardah",
+        "position": "PhD Researcher",
+        "photo": "hanadi.webp",
+        "e-mail": "",
+        "bio": "Hanadi is a PhD researcher at the Department of Computer Science at the University of Manchester. She has obtained her Bachelor degree in Computer Science from King Abdul Aziz University, Saudi Arabia. She has obtained her Master degree in Software Engineering from the University of Southern California USC, Los Angles in the US. Her research topic is about visualisation and interaction with argumentation graphs which is related to knowledge-intensive analysis and decision making. She is a mother of 3 kids and likes cooking, reading, and doing some arts in her leisure time."
+    },
+    {
+        "name": "Jordan Meadows",
+        "position": "PhD Researcher",
+        "photo": "jordan.webp",
+        "e-mail": "",
+        "bio": "Jordan is a Computer Science PhD researcher supervised by Andre Freitas and Jonathan Shapiro, and a recipient of the James Elson Studentship. He is interested in scientific discovery at the interface between theoretical physics and artificial intelligence. His research goal involves the automation of advanced mathematical reasoning during derivation of novel equations. Jordan received a first class MPhys from the University of Exeter (with awards for academic excellence) where he focused on quantum mechanics and condensed matter. He was a research intern in projects involving photonics, magnonics, and plasmonic metamaterials theory."
+    },
+    {
+        "name": "Julia Rozanova",
+        "position": "PhD Researcher",
+        "photo": "julia.webp",
+        "e-mail": "",
+        "bio": "Julia Rozanova is a PhD student in Computer Science at the University of Manchester working at the interface between neural representations and logical inference. Her main research interests are in natural language inference, natural logic and probing methods. Julia has a BSc and MSc in Maths."
+    },
+    {
+        "name": "Mario Ramirez",
+        "position": "PhD Researcher",
+        "photo": "mario.webp",
+        "e-mail": "",
+        "bio": "Mario Ramirez is a PhD student in Computer Science at the University of Manchester. His doctoral research investigates the use of Natural Language Processing in integrating and exploring Data Lakes. He holds a master’s degree in Advanced Computer Science and IT Management from the University of Manchester. He has over 12 years of professional experience ranging from ETL Applications, Web Application Development and SOA and BPMN implementations. Since 2010, he has been a collaborator at the Directorate of Computer Systems Development in the Central Bank of Mexico."
+    },
+    {
+        "name": "Mauricio Jacobo",
+        "position": "PhD Researcher",
+        "photo": "mauricio.webp",
+        "e-mail": "",
+        "bio": "Mauricio Jacobo is a PhD researcher at the Department of Computer Science at the University of Manchester. Mauricio owns a BSc in Computer Engineering degree from the National Autonomous University of Mexico. He continued his studies at the University of Liverpool. He obtained an M.B.A in Business Finance and Management. He was awarded the “Best student of the year” due to his work in service productivity. Currently, Mauricio is working in establishing the economic impacts of AI in business process automation."
+    },
+    {
+        "name": "Mokanarangan Thayaparan",
+        "position": "PhD Researcher",
+        "photo": "mohan.webp",
+        "e-mail": "",
+        "bio": "Mokanarangan Thayaparan is currently a Ph.D. student (started in 2018) in Computer Science at The University of Manchester and has obtained his Masters in Computer Science and Bachelors in Computer Science and Engineering from the University of Moratuwa, Sri Lanka. He is currently working with explainable and domain-specific modeling for natural language reasoning. You can find him railing against Reviewer #2 in academic groups and also a part-time poet."
+    },
+    {
+        "name": "Oskar Wysocki",
+        "position": "PhD Researcher",
+        "photo": "oskar.webp",
+        "e-mail": "",
+        "bio": "Oskar Wysocki is a postdoc at the Department of Computer Science at the University of Manchester and at the Digital Experimental Cancer Medicine Team (dECMT). He obtained BSc in Civil Engineering and MSc in Mechanical Engineering at the Gdańsk University of Technology in Poland, both with distinction. Before joining AI Systems Lab he worked at De Montfort University in Leicester on 3D objects segmentation algorithms. Prior to that, Oskar gained 3 years of industrial experience working as mechanical designer and data analyst. Currently he works on clinical decision support systems which incorporate predictive models and expert knowledge, with a strong focus on medical imaging. In the meantime, he is finishing his PhD dissertation on predictive models in machine exploitation."
+    },
+    {
+        "name": "Philip Osborne",
+        "position": "PhD Researcher",
+        "photo": "philip.webp",
+        "e-mail": "",
+        "bio": "Philip is a doctoral student at the University of Manchester with a Masters Degree in Data Science and Bachelors Degree in Mathematics. The primary focus of his research relates to the application of Reinforcement Learning to Real-World Tasks with the integration of Natural Language. Philip first applied Reinforcement Learning in a commercial environment with his Master’s dissertation has demonstrated some of his other ideas publicly including meal planning and recommending strategy decisions within a popular video game. The public demonstrations have gained notoriety within the data science community, including two separate monetary awards from Kaggle (Google) for their novelty."
+    },
+    {
+        "name": "Magdalena Wysocka",
+        "position": "Visiting Researcher",
+        "photo": "magdalena.webp",
+        "e-mail": "",
+        "bio": "Magdalena Wysocka is currently on an internship at the Department of Computer Science at the University of Manchester. She obtained MSc and BSc in Biomedical Engineering with specialisation in Computer Science and Chemistry in Medicine at the Gdańsk University of Technology in Poland, both with distinction. Before joining AI Systems Lab she took part in a two years project on the whole genome analysis and antimicrobial resistance at the Department of Genetics at the University of Leicester. Currently she works on feature selection methods in medical applications. She is finishing her PhD dissertation on virulence profile and genome analysis of Klebsiella isolates recovered from renal transplant patients. Vegetarian with a BA in Clinical Nutrition and travel lover with forty countries on the list."
+    }
+]

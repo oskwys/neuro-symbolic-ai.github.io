@@ -1,0 +1,17 @@
+---
+layout: framework
+---
+
+<h2>People</h2>
+
+{% for person in site.data.people %}
+    <div style="margin-bottom: 10px;">
+        <a id="{{ person.e-mail }}"></a>
+        <img decoding="async" loading="lazy" width="20%" src="/assets/images/people/{{ person.photo}}" alt="{{ person.name }}'s photo" sizes="(max-width: 336px) 100vw, 336px" data-recalc-dims="1" style="float: left; margin-right: 20px;" />
+        <p style="min-height: 280px;">
+            <strong>{{ person.name }}, {{ person.position }} </strong><br>
+            <strong>Bio: </strong>{{ person.bio }}
+        </p>
+    </div>
+    
+{% endfor %}

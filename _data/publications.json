@@ -1,0 +1,910 @@
+[
+    {
+        "title": "Explainable Natural Language Reasoning via Conceptual Unification",
+        "authors": "Marco Valentino, Mokanarangan Thayaparan, André Freitas",
+        "booktitle": "16th conference of the European Chapter of the Association for Computational Linguistics (EACL) (EACL), 2021 (Full Paper/Research Track)",
+        "year": 2022,
+        "month": 10,
+        "doi": "",
+        "url": ""
+    },
+    {
+        "title": "STAR: Cross-modal Statement Representation for Selecting Relevant Mathematical Premises",
+        "authors": "Deborah Mendes, André Freitas",
+        "booktitle": "16th conference of the European Chapter of the Association for Computational Linguistics (EACL) (EACL), 2021 (Full Paper/Research Track)",
+        "year": 2022,
+        "month": 10,
+        "subject": "",
+        "doi": "",
+        "url": ""
+    },
+    {
+        "title": "Cost–effective Variational Active Entity Resolution",
+        "authors": "Alex Bogatu, Norman W. Paton, Mark Douthwaite, Stuart Davie, André Freitas, ",
+        "booktitle": " 37th IEEE International Conference on Data Engineering (ICDE), 2021 (Full Paper/Research Track) ",
+        "year": 2021,
+        "url": "https://arxiv.org/pdf/2011.10406.pdf",
+        "doi": ""
+    },
+    {
+        "title": "A Natural Language Inference Framework for Data Exploration on Data Lakes",
+        "authors": "Mario Ramirez, Alex Bogatu, Norman W. Paton, André Freitas, ",
+        "booktitle": " 18th Extended Semantic Web Conference (ESWC), 2021 (Full Paper/Research Track). ",
+        "year": 2021,
+        "url": "https://openreview.net/pdf?id=IlNA3w6pDG-",
+        "doi": ""
+    },
+    {
+        "title": "Longitudinal characterisation of haematological and biochemical parameters in cancer patients prior to and during COVID-19 reveals features associated with outcome",
+        "authors": "Rebecca J. Lee et al., ",
+        "booktitle": " ESMO Open, Volume 6, Issue 1, 2021 (Jounal) ",
+        "year": 2021,
+        "url": "https://www.esmoopen.com/article/S2059-7029%2820%2932864-7/fulltext#articleInformation",
+        "doi": ""
+    },
+    {
+        "title": "Microeconomic Foundations of Decentralised Organisations",
+        "authors": "Mauricio R. Jacobo, André Freitas",
+        "booktitle": "The 36th ACM/SIGAPP Symposium On Applied Computing (ACM SAC), 2021 (Full Paper/Research Track)",
+        "year": 2021,
+        "url": "",
+        "doi": ""
+    },
+    {
+        "title": "Establishment of CORONET; COVID-19 Risk in Oncology Evaluation Tool to identify cancer patients at low versus high risk of severe complications of COVID-19 infection upon presentation to hospital",
+        "authors": "Rebecca J. Lee et al., ",
+        "booktitle": " medRXiv, 2021 (Preprint) ",
+        "year": 2021,
+        "url": "https://www.medrxiv.org/content/10.1101/2020.11.30.20239095v1",
+        "doi": ""
+    },
+    {
+        "title": "CORONET; COVID-19 in Oncology evaluatiON Tool: Use of machine learning to inform management of COVID-19 in patients with cancer",
+        "authors": "Rebecca J. Lee et al.",
+        "booktitle": "ASCO Annual Meeting (Abstract)",
+        "year": 2020,
+        "url": "",
+        "doi": ""
+    },
+    {
+        "title": "Premise Selection in Natural Language Mathematical Texts",
+        "authors": "Deborah Mendes, André Freitas,",
+        "booktitle": " 58th Annual Meeting of the Association for Computational Linguistics (ACL), Seattle, USA, 2020 (Full Paper/Research Track)",
+        "year": 2020,
+        "url": "https://www.aclweb.org/anthology/2020.acl-main.657/",
+        "doi": ""
+    },
+    {
+        "title": "Explainable Natural Language Reasoning via Conceptual Unification",
+        "authors": "Marco Valentino, Mokanarangan Thayaparan, André Freitas,",
+        "booktitle": " arXiv:2009.14539, 2020 (Preprint)",
+        "year": 2020,
+        "url": "https://arxiv.org/abs/2009.14539",
+        "doi": ""
+    },
+    {
+        "title": "A Survey on Explainability in Machine Reading Comprehension",
+        "authors": "Mokanarangan Thayaparan, Marco Valentino, André Freitas,",
+        "booktitle": " arXiv:2010.00389, 2020 (Preprint)",
+        "year": 2020,
+        "url": "https://arxiv.org/abs/2010.00389",
+        "doi": ""
+    },
+    {
+        "title": "&nbsp;Unification-based Reconstruction of Explanations for Science Questions",
+        "authors": "Marco Valentino, Mokanarangan Thayaparan, André Freitas,",
+        "booktitle": " arXiv:2004.00061, 2020 (Preprint)",
+        "year": 2020,
+        "url": "https://arxiv.org/pdf/2004.00061.pdf",
+        "doi": ""
+    },
+    {
+        "title": "XTE: Explainable Text Entailment",
+        "authors": "Vivian S. Silva, André Freitas, Siegfried Handschuh,",
+        "booktitle": " arXiv:2009.12431, 2020 (Preprint)",
+        "year": 2020,
+        "url": "https://arxiv.org/pdf/2009.12431.pdf",
+        "doi": ""
+    },
+    {
+        "title": "How Researchers Use Diagrams in Communicating Neural Network Systems",
+        "authors": "Guy Clarke Marshall, André Freitas, Caroline Jay,",
+        "booktitle": " arXiv:2008.12566, 2020 (Preprint)",
+        "year": 2020,
+        "url": "https://arxiv.org/pdf/2008.12566.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Understanding scholarly Natural Language Processing system diagrams through application of the Richards-Engelhardt framework",
+        "authors": "Guy Clarke Marshall, Caroline Jay, André Freitas,",
+        "booktitle": " arXiv:2008.11785, 2020 (Preprint)",
+        "year": 2020,
+        "url": "https://arxiv.org/pdf/2008.11785.pdf",
+        "doi": ""
+    },
+    {
+        "title": "What is SemEval evaluating? A Systematic Analysis of Evaluation Campaigns in NLP",
+        "authors": "Oskar Wysocki, Malina Florea, André Freitas,",
+        "booktitle": " arXiv:2005.14299, 2020 (Preprint)",
+        "year": 2020,
+        "url": "https://arxiv.org/pdf/2005.14299.pdf",
+        "doi": ""
+    },
+    {
+        "title": "On the Evaluation of Intelligence Process Automation",
+        "authors": "Deborah Mendes, Julia Rozanova, Krishna Dubba, Dell Zhang, André Freitas,",
+        "booktitle": " 1st Workshop on Intelligent Processing Automation@AAAI, New York, USA, 2020 (Full Workshop Paper)",
+        "year": 2020,
+        "url": "https://arxiv.org/abs/2001.02639",
+        "doi": ""
+    },
+    {
+        "title": "Natural Language Premise Selection: Finding Supporting Statements for Mathematical Texts",
+        "authors": "Deborah Mendes, André Freitas,",
+        "booktitle": " 12th Language Resources and Evaluation Conference (LREC), Marseille, France, 2020 (Language Resource Paper)",
+        "year": 2020,
+        "url": "https://arxiv.org/abs/2004.14959",
+        "doi": ""
+    },
+    {
+        "title": "A Framework for Evaluation of Machine Reading Comprehension Gold Standards",
+        "authors": "Viktor Schlegel, Marco Valentino, André Freitas, Goran Nenadic, Riza Batista-Navarro,",
+        "booktitle": " 12th Language Resources and Evaluation Conference (LREC), Marseille, France, 2020 (Language Resource Paper)",
+        "year": 2020,
+        "url": "https://arxiv.org/abs/2003.04642",
+        "doi": ""
+    },
+    {
+        "title": "A User-Centred Analysis of Explanations for a Multi-Component Semantic Parser",
+        "authors": "Juliano Sales, André Freitas, Siegfried Handschuh",
+        "booktitle": "25th International Conference on Natural Language &amp; Information Systems (NLDB), Saarbrucken, Germany, 2020 (Short Research Paper)",
+        "year": 2020,
+        "url": "https://link.springer.com/chapter/10.1007/978-3-030-51310-8_4",
+        "doi": ""
+    },
+    {
+        "title": "Attentive Recurrent Text Categorisation Models using Word-Category Cross Embedding on Financial Comments",
+        "authors": "Macedo Maia, Vivian Silva, M Endres, André Freitas, Siegfried Handschuh",
+        "booktitle": "Proceedings of the 35th Annual ACM Symposium on Applied Computing, Brno, Czech Republic, 2020 (Short Research Paper)",
+        "year": 2020,
+        "url": "https://link.springer.com/chapter/10.1007/978-3-030-51310-8_4",
+        "doi": ""
+    },
+    {
+        "title": "Identifying and Explaining Discriminative Attributes",
+        "authors": "Armins Stepanjans, André Freitas,",
+        "booktitle": " Conference on Empirical Methods in Natural Language Processing (EMNLP), Hong Kong, 2019 (Full Conference Paper)",
+        "year": 2019,
+        "url": "https://arxiv.org/abs/1909.05363",
+        "doi": ""
+    },
+    {
+        "title": ", Transforming Complex Sentences into a Semantic Hierarchy",
+        "authors": "Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh",
+        "booktitle": " 57th Annual Meeting of the Association for Computational Linguistics (ACL), Florence, Italy, 2019 (Full Conference Paper)",
+        "year": 2019,
+        "url": "https://arxiv.org/pdf/1906.01038.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Exploring Knowledge Graphs in an Interpretable Composite Approach for Text Entailment",
+        "authors": "Vivian S. Silva, André Freitas, Siegfried Handschuh,",
+        "booktitle": " 33rd AAAI Conference on Artificial Intelligence (AAAI-19), Honolulu, USA, 2019 (Full Conference Paper)",
+        "year": 2019,
+        "url": "http://andrefreitas.org/papers/aaai2019_VSetal_camera-ready.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Vajra: Step-by-step Programming with Natural Language",
+        "authors": "Viktor Schlegel, Benedikt Lang, Siegfried Handschuh, André Freitas",
+        "booktitle": "24th Annual Meeting of the Intelligent User Interfaces (IUI), Los Angeles, USA, 2019 (Full Conference Paper)",
+        "year": 2019,
+        "url": "http://andrefreitas.org/papers/IUI_2019__Vajra.pdf",
+        "doi": ""
+    },
+    {
+        "title": "easuring diagram quality through semiotic morphisms",
+        "authors": "Guy Marshall, André Freitas",
+        "booktitle": "Semiotica: Journal of the International Association for Semiotic Studies (SEMI), 2019 (Journal Paper)",
+        "year": 2019,
+        "url": "http://andrefreitas.org/papers/diagrammatic_quality_semiotica_2019.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Identifying Supporting Facts for Multi-hop Question Answering with Document Graph Networks",
+        "authors": "Mokanarangan Thayaparan, Marco Valentino, Viktor Schlegel, André Freitas,",
+        "booktitle": " TextGraphs@EMNLP, Hong Kong, 2019 (Workshop Paper)",
+        "year": 2019,
+        "url": "https://arxiv.org/pdf/1910.00290.pdf",
+        "doi": ""
+    },
+    {
+        "title": "DBee: A Database for Creating and Managing Knowledge Graphs and Embeddings",
+        "authors": "Viktor Schlegel, André Freitas,",
+        "booktitle": " TextGraphs@EMNLP, Hong Kong, 2019 (Workshop Paper)",
+        "year": 2019,
+        "url": "http://andrefreitas.org/papers/DBee_for_EMNLP.pdf",
+        "doi": ""
+    },
+    {
+        "title": "MinWikiSplit: A Sentence Splitting Corpus with Minimal Propositions",
+        "authors": "Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh",
+        "booktitle": "12th International Conference on Natural Language Generation (INLG 2019), Tokyo, 2019 (Conference Short Paper)",
+        "year": 2019,
+        "url": "https://arxiv.org/pdf/1909.12131.pdf",
+        "doi": ""
+    },
+    {
+        "title": "DisSim: A Discourse-Aware Syntactic Text Simplification Frameworkfor English and German",
+        "authors": "Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh",
+        "booktitle": "12th International Conference on Natural Language Generation (INLG 2019), Tokyo, 2019 (Conference Demo Paper)",
+        "year": 2019,
+        "url": "https://arxiv.org/pdf/1909.12140.pdf",
+        "doi": ""
+    },
+    {
+        "title": "On the Semantic Interpretability of Artificial Intelligence Models",
+        "authors": "Vivian S. Silva, André Freitas, Siegfried Handschuh",
+        "booktitle": "(Preprint)",
+        "year": 2019,
+        "url": "https://arxiv.org/pdf/1907.04105.pdf",
+        "doi": ""
+    },
+    {
+        "title": "The Diagrammatic AI Language (DIAL): Version 0.1",
+        "authors": "Guy Marshall, André Freitas",
+        "booktitle": "(Technical Report)",
+        "year": 2019,
+        "url": "http://andrefreitas.org/papers/DIAL_Specification_v.0.1.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Querying and Searching Heterogeneous Knowledge Graphs in Real-Time Linked Dataspaces",
+        "authors": "André Freitas, Seán O’Riáin, and Edward Curry",
+        "booktitle": "(Book Chapter)",
+        "year": 2019,
+        "url": "http://andrefreitas.org/papers/DIAL_Specification_v.0.1.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Recognizing and Justifying Text Entailment through Distributional Navigation on Definition Graphs",
+        "authors": "Vivian S. Silva, André Freitas, Siegfried Handschuh,",
+        "booktitle": " Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18), New Orleans, USA, 2018 (Full Conference Paper)",
+        "year": 2018,
+        "url": "http://andrefreitas.org/papers/aaai18_V_S_Silva_et_al-final.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Graphene: Semantically-Linked Propositions in Open Information Extraction",
+        "authors": "Matthias Cetto, Christina Niklaus, André Freitas and Siegfried Handschuh,",
+        "booktitle": " In Proceedings of the 27th International Conference on Computational Linguistics (COLING), New-Mexico, USA, 2018 (Full Conference Paper)",
+        "year": 2018,
+        "url": "https://arxiv.org/pdf/1807.11276.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Graphene: A Context-Preserving Open Information Extraction System",
+        "authors": "Matthias Cetto, Christina Niklaus, André Freitas and Siegfried Handschuh",
+        "booktitle": "In Proceedings of the 27th International Conference on Computational Linguistics (COLING), New-Mexico, USA, 2018 (Demonstration Paper)",
+        "year": 2018,
+        "url": "https://arxiv.org/abs/1808.09463",
+        "doi": ""
+    },
+    {
+        "title": "An Open Vocabulary Semantic Parser for End-User Programming using Natural Language",
+        "authors": "Juliano E. Sales, André Freitas, Siegfried Handschuh,",
+        "booktitle": " 12th IEEE International Conference on Semantic Computing (ICSC), USA, 2018 (Best Student Paper Award) (Full Conference Paper)",
+        "year": 2018,
+        "url": "http://andrefreitas.org/papers/ICSC_2018_Semantic_Parser_for_End-User_Programming.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Multilingual Semantic Relatedness using Lightweight Machine Translation",
+        "authors": "Siamak Barzegar, Brian Davis, Siegfried Handschuh, André Freitas",
+        "booktitle": "12th IEEE International Conference on Semantic Computing (ICSC), USA, 2018 (Full Conference Paper)",
+        "year": 2018,
+        "url": "http://andrefreitas.org/papers/ieee-icsc-semantic.pdf",
+        "doi": ""
+    },
+    {
+        "title": "SemR-11: A Multi-Lingual Gold-Standard for Semantic Similarity and Relatedness for Eleven Languages",
+        "authors": "Siamak Barzegar, Brian Davis, Manel Zarrouk, Siegfried Handschuh, André Freitas,",
+        "booktitle": " 11th Language Resources and Evaluation Conference (LREC), Japan, 2018 (Linguistic Resource Paper)",
+        "year": 2018,
+        "url": "http://andrefreitas.org/papers/2018-LREC-SemR-11.pdf",
+        "doi": ""
+    },
+    {
+        "title": "The SSIX Corpora: Three Gold Standard Corpora for Sentiment Analysis in English, Spanish and German Financial Microblogs",
+        "authors": "Thomas Gaillat, Manel Zarrouk, André Freitas, Brian Davis",
+        "booktitle": "11th Language Resources and Evaluation Conference (LREC), Japan, 2018 (Linguistic Resource Paper)",
+        "year": 2018,
+        "url": "http://andrefreitas.org/papers/2018-LREC-SemR-11.pdf",
+        "doi": ""
+    },
+    {
+        "title": "The SSIX Corpora: Three Gold Standard Corpora for Sentiment Analysis in English, Spanish and German Financial Microblogs",
+        "authors": "Juliano Efson Sales, Leonardo Souza, Siamak Barzegar, Brian Davis, André Freitas and Siegfried Handschuh",
+        "booktitle": "11th Language Resources and Evaluation Conference (LREC), Japan, 2018 (Linguistic Resource Paper)",
+        "year": 2018,
+        "url": "http://andrefreitas.org/papers/indra_framework_lrec_2018.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Building a Knowledge Graph from Natural Language Definitions for Interpretable Text Entailment Recognition",
+        "authors": "Vivian S. Silva, André Freitas, Siegfried Handschuh,",
+        "booktitle": " 11th Language Resources and Evaluation Conference (LREC), Japan, 2018 (Linguistic Resource Paper)",
+        "year": 2018,
+        "url": "http://andrefreitas.org/papers/lrec2018_Vivian_camera_ready_V2.pdf",
+        "doi": ""
+    },
+    {
+        "title": "A Multilingual Test Collection for the Semantic Search of Entity Categories",
+        "authors": "Juliano E. Sales, Siamak Barzegar, Wellington Franco, Bernhard Bermeitinger, Tiago Cunha, Brian Davis, André Freitas, Siegfried Handschuh,",
+        "booktitle": " 11th Language Resources and Evaluation Conference (LREC), Japan, 2018 (Linguistic Resource Paper)",
+        "year": 2018,
+        "url": "http://andrefreitas.org/papers/sales_lrec_categ_2018.pdf",
+        "doi": ""
+    },
+    {
+        "title": "WWW’18 Open Challenge: Financial Opinion Mining and Question Answering",
+        "authors": "Macedo Maia, André Freitas, Alexandra Balahur, Siegfried Handschuh, Manel Zarrouk, Ross McDermott, Brian Davis,",
+        "booktitle": " In Proceedings of The Web Conference, Lyon, France, 2018 (Challenge Description)",
+        "year": 2018,
+        "url": "http://andrefreitas.org/papers/www_fiqa_2018a.pdf",
+        "doi": ""
+    },
+    {
+        "title": "End-user Software Development Using Natural Language: Task Description",
+        "authors": "Juliano Efson Sales, Siegfried Handschuh, André Freitas,",
+        "booktitle": " Semeval 2017 (Task Description)",
+        "year": 2017,
+        "url": "http://andrefreitas.org/papers/preprint_semeval_task11_2017.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Fine-Grained Sentiment Analysis on Financial Microblogs and News: Task Description",
+        "authors": "Keith Cortis, Tobias Dauert, André Freitas, Manuela Huerliman, Manel Zarrouk, Siegfried Handschuh, Brain Davis,",
+        "booktitle": " Semeval 2017 (Task Description)",
+        "year": 2017,
+        "url": "http://andrefreitas.org/papers/preprint_semeval_task05_2017.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Object Classification in Images of Neoclassical Artifacts Using Deep Learning",
+        "authors": "Bernhard Bermeitinger, Simon Donig, André Freitas, Siegfried Handschuh,",
+        "booktitle": " Digital Humanities, 2017 (Conference Paper)",
+        "year": 2017,
+        "url": "https://dh2017.adho.org/abstracts/590/590.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Composite Semantic Relation Classification",
+        "authors": "Siamak Barzegar, André Freitas, Siegfried Handschuh, Brian Davis,",
+        "booktitle": " 20th International Conference on Applications of Natural Language to Information Systems, NLDB, 2017 (Full Conference Paper)",
+        "year": 2017,
+        "url": "http://andrefreitas.org/papers/preprint_nldb_2017.pdf",
+        "doi": ""
+    },
+    {
+        "title": "A Compositional-Distributional Semantic Model for Searching Complex Entity Categories",
+        "authors": "Juliano Efson Sales, André Freitas, Brian Davis, Siegfried Handschuh,",
+        "booktitle": " 5th Joint Conference on Lexical and Computational Semantics (*SEM), Berlin, 2016. (Full Conference Paper)",
+        "year": 2016,
+        "url": "http://andrefreitas.org/papers/preprint_star_sem_2016.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Semantic Relatedness for All (Languages): A Comparative Analysis of Multilingual Semantic Relatedness using Machine Translation",
+        "authors": "André Freitas, Siamak Barzegar, Juliano E. Sales, Siegfried Handschuh and Brian Davis,",
+        "booktitle": " 20th International Conference on Knowledge Engineering and Knowledge Management (EKAW), 2016. (Full Conference Paper)",
+        "year": 2016,
+        "url": "http://andrefreitas.org/papers/preprint_eakw_mt_2016.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Supersense Word Tagging with Foundational Ontology Classes",
+        "authors": "Vivian S. Silva, André Freitas and Siegfried Handschuh",
+        "booktitle": "20th International Conference on Knowledge Engineering and Knowledge Management (EKAW), 2016. (Full Conference Paper)",
+        "year": 2016,
+        "url": "http://andrefreitas.org/papers/preprint_ekaw_tagging_2016.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Determining Data Relevance using Semantic Types and Graphical Interpretation Cues",
+        "authors": "Eduardo H. Kamioka, André Freitas, Frederico Caroli, and Siegfried Handschuh,",
+        "booktitle": " 15th International Symposium on Intelligent Data Analysis (IDA), Stockholm, 2016. (Full Conference Paper)",
+        "year": 2016,
+        "url": "http://andrefreitas.org/papers/preprint_IDA_2016.pdf",
+        "doi": ""
+    },
+    {
+        "title": "&nbsp;A Sentence Simplification System for Improving Relation Extraction",
+        "authors": "Christina Niklaus, Bernhard Bermeitinger, Siegfried Handschuh, André Freitas,",
+        "booktitle": " 26th International Conference on Computational Linguistics, (COLING), Osaka, 2016. (Demonstration in Proceedings)",
+        "year": 2016,
+        "url": "http://andrefreitas.org/papers/preprint_text_simplification_coling_2016.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Semantic Relation Classification: Task Formalisation and Refinement",
+        "authors": "Vivian S. Silva, Manuela Hürliman, Brian Davis, Siegfried Handschuh and André Freitas,",
+        "booktitle": " Cognitive Aspects of the Lexicon (CogALex-V), Workshop at the 26th International Conference on Computational Linguistics, (COLING), Osaka, 2016. (Full Workshop Paper)",
+        "year": 2016,
+        "url": "http://andrefreitas.org/papers/preprint_relation_classification_cogalex_2016.pdf",
+        "doi": ""
+    },
+    {
+        "title": "NNBlocks: A Deep Learning Framework for Computational Linguistics Neural Network Models",
+        "authors": "Frederico Tommasi Caroli, João Carlos Pereira Da Silva, André Freitas, Siegfried Handschuh",
+        "booktitle": "In Proceedings of the 10th Language Resources and Evaluation Conference (LREC), Portoroz, 2016 (Extended Abstract in Proceedings)",
+        "year": 2016,
+        "url": "http://andrefreitas.org/papers/preprint_LREC_paper_2016.pdf",
+        "doi": ""
+    },
+    {
+        "title": "A Linked Data Visualiser for Finite Element Biosimulations",
+        "authors": "Muntazir Mehdi, Yasar Khan, Andre Freitas, Joao Bosco Jares, Saleem Raza, Panagiotis Hasapis, Ratnesh Sahay,",
+        "booktitle": " 10th IEEE International Conference on Semantic Computing (ICSC), California, USA, 2016 (Full Conference Paper)",
+        "year": 2016,
+        "url": "http://andrefreitas.org/papers/preprint_icsc_2016b.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Demonstrating A Linked Data Visualiser for Finite Element Biosimulations",
+        "authors": "Muntazir Mehdi, Yasar Khan, André Freitas, Joao Bosco Jares, Saleem Raza, Panagiotis Hasapis, Ratnesh Sahay",
+        "booktitle": "10th IEEE International Conference on Semantic Computing (ICSC), California, USA, 2016. (Demonstration Paper in Proceedings)",
+        "year": 2016,
+        "url": "http://andrefreitas.org/papers/preprint_icsc_2016a.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Object Classification in Images of Neoclassical Furniture using Deep Learning",
+        "authors": "Bernhard Bermeitinger, André Freitas, Simon Donig, and Siegfried Handschuh,",
+        "booktitle": " 2nd International Workshop on Computational History and Data-Driven Humanities (CHDH), Dublin, Ireland, 2016. (Extended Abstract in Proceedings)",
+        "year": 2016,
+        "url": "http://andrefreitas.org/papers/preprint_chdh_2016.pdf",
+        "doi": ""
+    },
+    {
+        "title": "In or Out? Real-Time Monitoring of BREXIT sentiment on Twitter",
+        "authors": "Laurentiu Vasiliu, Ross McDermott, Malek Ben Khaled, Tobias Daudert, David Byrne, Manuela Huerlimann, Sergio Fernández, Angelo Cavallini, André Freitas, Frederico Carol, Manel Zarrouk and Brian Davis,",
+        "booktitle": " SEMANTiCS Conference, Leipzig, 2016. (Poster in Proceedings)",
+        "year": 2016,
+        "url": "http://andrefreitas.org/papers/preprint_brexit_monitoring_2016.pdf",
+        "doi": ""
+    },
+    {
+        "title": "A Twitter Sentiment Gold Standard for the Brexit Referendum",
+        "authors": "Manuela Hürlimann, Brian Davis, Keith Cortis, André Freitas, Siegfried Handschuh and Sergio Fernández",
+        "booktitle": " SEMANTiCS Conference, Leipzig, 2016. (Poster in Proceedings)",
+        "year": 2016,
+        "url": "http://andrefreitas.org/papers/preprint_brexit_gs_2016.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Semantic Indexing of Wearable Camera Images: Kids&#8217;Cam Concepts",
+        "authors": "Alan Smeaton, Kevin McGuinness, Gurrin Cathal, Jiang Zhou, Noel O&#8217;Connor, Peng Wang, Brian Davis, Lucas Azevedo, André Freitas, Louise Signal, Moira Smith, James Stanley, Michelle Barr, Tim Chambers and Cliona Ni Mhurchu",
+        "booktitle": "iV&amp;L-MM workshop @ ACM Multimedia, 2016. (Workshop Paper)",
+        "year": 2016,
+        "url": "http://andrefreitas.org/papers/preprint_smeaton_ivl_2016.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Data and Knowledge Engineering, Special Issue on Natural Language Processing and Information Systems",
+        "authors": "Chris Biemann, Siegfried Handschuh, André Freitas, Farid Meziane, Elisabeth Métais (Editors)",
+        "booktitle": "(NLDB 2015), 2016",
+        "year": 2016,
+        "url": "http://andrefreitas.org/papers/preprint_smeaton_ivl_2016.pdf",
+        "doi": ""
+    },
+    {
+        "title": "How hard is the Query? Measuring the Semantic Complexity of Schema-Agnostic Queries",
+        "authors": "André Freitas, Juliano Efson Sales, Siegfried Handschuh, Edward Curry,",
+        "booktitle": " In Proceedings of the 11th International Conference on Computational Semantics (IWCS), London, 2015. (Full Conference Paper)",
+        "year": 2015,
+        "url": "http://andrefreitas.org/papers/preprint_iwcs_2015.pdf",
+        "doi": ""
+    },
+    {
+        "title": "DINFRA: A One Stop Shop for Computing Multilingual Semantic Relatedness",
+        "authors": "Siamak Barzegar, Juliano Efson Sales, André Freitas, Siegfried Handschuh, Brian Davis",
+        "booktitle": "In Proceedings of the 38th Annual ACM SIGIR Conference, Santiago, Chile, 2015 (Demonstration Paper in Proceedings)",
+        "year": 2015,
+        "url": "http://andrefreitas.org/papers/DInfraDemoSIGIR2015.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Linse: A Distributional Semantics Entity Search Engine",
+        "authors": "Juliano Efson Sales, André Freitas, Siegfried Handschuh, Brian Davis",
+        "booktitle": "In Proceedings of the 38th Annual ACM SIGIR Conference, Santiago, Chile, 2015. (Demonstration Paper in Proceedings)",
+        "year": 2015,
+        "url": "http://andrefreitas.org/papers/LinseDemoSIGIR2015.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Approximate and Selective Reasoning on Knowledge Graphs: A Distributional Semantics Approach. Data Knowledge Engineering (DKE)",
+        "authors": "André Freitas,&nbsp;João C. Pereira da Silva,&nbsp;Edward Curry, Paul Buitelaar",
+        "booktitle": "Data &amp; Knowledge Engineering (DKE)&nbsp;100: 211-225, 2015&nbsp;(Article)",
+        "year": 2015,
+        "url": "http://andrefreitas.org/papers/selective_reasoning_knowledge_graphs.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Natural Language Processing and Information Systems &#8211; 20th International Conference on Applications of Natural Language to Information Systems",
+        "authors": "Chris Biemann, Siegfried Handschuh, André Freitas, Farid Meziane, Elisabeth Métais,",
+        "booktitle": " NLDB 2015 Passau, Germany, June 17-19, 2015 (Proceedings) (",
+        "year": 2015,
+        "url": "http://dblp.uni-trier.de/db/conf/nldb/nldb2015.html",
+        "doi": ""
+    },
+    {
+        "title": "The Schema-agnostic Queries (SAQ-2015) Semantic Web Challenge: Task Description",
+        "authors": "André Freitas, Christina Unger",
+        "booktitle": "12th Extended Semantic Web Conference, Portoroz, Slovenia, 2015",
+        "year": 2015,
+        "url": "http://andrefreitas.org/papers/saq_dataset_i.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Big Data Curation, Chapter in New Horizons for a Data-Driven Economy:&nbsp;A Roadmap for Usage and Exploitation of Big Data in Europe",
+        "authors": "André Freitas, Edward Curry",
+        "booktitle": "Springer Berlin / Heidelberg, 2015 (Book Chapter)",
+        "year": 2015,
+        "url": "https://www.insight-centre.org/sites/default/files/publications/newhorizons_online.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Extending Inner-Ear Anatomical concepts in the Foundational Model of Anatomy (FMA)",
+        "authors": "Yasar Khan, Muntazir Mehdi, Alokkumar Jha, Saleem Raza, Andre Freitas, Marggie Jones, Ratnesh Sahay",
+        "booktitle": "In proceedings of the 15th IEEE International Conference on Bioinformatics &amp; Bioengineering (BIBE2015), Belgrade, Serbia, 2015 (Conference Paper)",
+        "year": 2015,
+        "url": "https://www.insight-centre.org/sites/default/files/publications/ykhan.et_.al-bibe15_final.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Demonstrating a Linked Data Platform for Finite Element Biosimulations of Cochlear Mechanics",
+        "authors": "Muntazir Mehdi, Yasar Khan, Andre Freitas, Joao Bosco Jares, Panagiotis Hasapis, Ratnesh Sahay",
+        "booktitle": "In proceedings of the 14th International Semantic Web Conference (ISWC) 2015, Pennsylvania, United States, 2015 (Demonstration Paper in Proceedings)",
+        "year": 2015,
+        "url": "https://www.insight-centre.org/sites/default/files/publications/mehdi_iswc2015pd.pdf",
+        "doi": ""
+    },
+    {
+        "title": "A Linked Data Platform for Finite Element Bio-Simulations",
+        "authors": "Muntazir Mehdi, Yasar Khan, Andre Freitas, Joao Bosco Jares, Panagiotis Hasapis, Ratnesh Sahay",
+        "booktitle": "In proceedings of the SEMANTiCS, Vienna, Austria, 2015 (Full Conference Paper)",
+        "year": 2015,
+        "url": "https://www.insight-centre.org/sites/default/files/publications/mehdi.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Natural Language Queries over Heterogeneous Linked Data Graphs: A Distributional-Compositional Semantics Approach",
+        "authors": "André Freitas, Edward Curry,",
+        "booktitle": " In Proceedings of the 19th International Conference on Intelligent User Interfaces (IUI), Haifa, 2014. (Full Conference Paper)",
+        "year": 2014,
+        "url": "http://andrefreitas.org/papers/preprint_iui_2014.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Towards An Approximative Ontology-Agnostic Approach for Logic Programs",
+        "authors": "João C. Pereira da Silva, André Freitas,",
+        "booktitle": " In Proceedings of the Eighth International Symposium on Foundations of Information and Knowledge Systems (FoIKS), Bordeaux, 2014. (Full Conference Paper)",
+        "year": 2014,
+        "url": "http://andrefreitas.org/papers/preprint_foiks_2014.pdf",
+        "doi": ""
+    },
+    {
+        "title": "A Distributional Semantics Approach for Selective Reasoning on Commonsense Graph Knowledge Bases",
+        "authors": "André Freitas, João Carlos Pereira Da Silva, Edward Curry, Paul Buitelaar",
+        "booktitle": "In Proceedings of the&nbsp; 19th International Conference on Applications of Natural Language to Information Systems (NLDB),&nbsp;Montpellier, 2014.&nbsp;(Full Conference Paper)",
+        "year": 2014,
+        "url": "http://andrefreitas.org/papers/preprint_nldb__commonsense_2014.pdf",
+        "doi": ""
+    },
+    {
+        "title": "On the Semantic Representation and Extraction of Complex Category Descriptors",
+        "authors": "André Freitas, Rafael Vieira, Edward Curry, Danilo Carvalho, João Carlos Silva",
+        "booktitle": "In Proceedings of the&nbsp;19th International Conference on Applications of Natural Language to Information Systems (NLDB), Montpellier, 2014. (Short Conference Paper)",
+        "year": 2014,
+        "url": "http://andrefreitas.org/papers/preprint_nldb_nlcd_2014.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Introduction to Question Answering over Linked Data",
+        "authors": "Christina Unger, André Freitas, Philipp Cimiano",
+        "booktitle": " In Proceedings of the 2014 Reasoning Web Summer School, 2014",
+        "year": 2014,
+        "url": "http://andrefreitas.org/papers/preprint_introduction_qa_linked_data.pdf",
+        "doi": ""
+    },
+    {
+        "title": "On the Semantic Mapping of Schema-agnostic Queries: A Preliminary Study",
+        "authors": "André Freitas, João Carlos Pereira Da Silva, Edward Curry",
+        "booktitle": "Workshop of the Natural Language Interfaces for the Web of Data (NLIWoD), 13th International Semantic Web Conference (ISWC), Rival del Garda, 2014. (Workshop Short Paper)",
+        "year": 2014,
+        "url": "http://andrefreitas.org/papers/schema_agnostic_i_final_version.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Distributional-Relational Models: Scalable Semantics for Databases",
+        "authors": "André Freitas, Siegfried Handschuh, Edward Curry",
+        "booktitle": "AAAI Spring Symposium, Knowledge Representation &amp; Reasoning Track, Stanford, 2014",
+        "year": 2014,
+        "url": "http://andrefreitas.org/papers/aaai_symp_2015.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Semantics at Scale: When Distributional Semantics meets Logic Programming",
+        "authors": "André Freitas, João C. Pereira da Silva,",
+        "booktitle": " ALP Newsletter, 2014",
+        "year": 2014,
+        "url": "http://www.cs.nmsu.edu/ALP/wp-content/uploads/2014/12/alp.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Towards a Distributional Semantic Web Stack",
+        "authors": "André Freitas, Edward Curry, Siegfried Handschuh,",
+        "booktitle": " 10th International Workshop on Uncertainty Reasoning for the Semantic Web (URSW 2014), 13th International Semantic Web Conference (ISWC), Rival del Garda, 2014. (Position Paper)",
+        "year": 2014,
+        "url": "http://andrefreitas.org/papers/ursw_2014.pdf",
+        "doi": ""
+    },
+    {
+        "title": "A Semantic Web Platform for Improving the Automation and Reproducibility of Finite Element Bio-simulation",
+        "authors": "André Freitas, Kartik Asooja, Joao Jares, Stefan Decker and Ratnesh Sahay,",
+        "booktitle": " Semantic Web Applications and Tools for the Life Sciences (SWAT4LS), Berlin, 2014",
+        "year": 2014,
+        "url": "http://andrefreitas.org/papers/swat4ls.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Towards a Semantic Web Platform for Finite Element Simulations",
+        "authors": "André Freitas, Kartik Asooja, Swapnil Soni, Marggie Jones, Panagiotis Hasapis and Ratnesh Sahay",
+        "booktitle": "In Proceedings of the 11th Extended Semantic Web Conference (ESWC), Crete,&nbsp;<small>&nbsp;2014</small>.&nbsp;(Demonstration Paper in Proceedings)",
+        "year": 2014,
+        "url": "http://andrefreitas.org/papers/preprint_eswc_demo_sifem_2014.pdf",
+        "doi": ""
+    },
+    {
+        "title": "EasyESA: A Low-effort Infrastructure for Explicit Semantic Analysis",
+        "authors": "Danilo Carvalho, Çağatay Çallı, André Freitas, Edward Curry,",
+        "booktitle": " In Proceedings of the 13th International Semantic Web Conference (ISWC), Rival del Garda, 2014. (Demonstration Paper in Proceedings)",
+        "year": 2014,
+        "url": "http://andrefreitas.org/papers/easyesa_demo_2014.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Big Data Curation Technical Whitepaper",
+        "authors": "Edward Curry, André Freitas, Umair Ul Hassan",
+        "booktitle": "BIG Project Report, 2014. (Technical Report)",
+        "year": 2014,
+        "url": "http://andrefreitas.org/papers/BIG%20Data%20Curation%20Whitepaper%20Final.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Querying the Semantic Web using Semantic Relatedness: A Vocabulary Independent Approach",
+        "authors": "André Freitas,&nbsp;Edward Curry,&nbsp;João Gabriel Oliveira,&nbsp;João C. Pereira da Silva,&nbsp;Sean O&#8217;Riain,&nbsp;",
+        "booktitle": "&nbsp;Data &amp; Knowledge Engineering (DKE) Journal,&nbsp;2013.&nbsp;&nbsp;(Article)&nbsp;",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/preprint_dke.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Answering Natural Language Queries over Linked Data Graphs: A Distributional Semantics Approach",
+        "authors": "André Freitas, Fabricio de Faria, Sean O&#8217;Riain, Edward Curry,&nbsp;",
+        "booktitle": " In Proceedings of the 36th Annual ACM SIGIR Conference, Dublin, Ireland, 2013.&nbsp;(Demonstration Paper in Proceedings)&nbsp;",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/answering_natural_language_queries_sigir_2013.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Distributional Relational Networks",
+        "authors": "André&nbsp;Freitas,&nbsp;João&nbsp;C. P. da Silva, Sean O’Riain, Edward Curry,&nbsp;",
+        "booktitle": " AAAI Fall Symposium, Arlington, 2013 (Conference Paper)&nbsp;",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/aaai_distributional_relational_networks_2013.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Do it yourself (DIY) Jeopardy QA System",
+        "authors": "André&nbsp;Freitas,&nbsp;Edward Curry,&nbsp;",
+        "booktitle": " In Proceedings of the 12th International Semantic Web Conference (ISWC), Sydney, 2013 (Demonstration Paper in Proceedings)&nbsp;",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/iswc_2013_diy_jeopardy_qa_system.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Representing Texts as Contextualized Entity-Centric Linked Data Graphs",
+        "authors": "André Freitas, João C. Pereira da Silva,&nbsp;Danilo S. Carvalho,&nbsp;Sean O&#8217;Riain, Edward Curry,&nbsp;",
+        "booktitle": " 12th International Workshop on Web Semantics and Web Intelligence (WebS 2013), 24th International Conference on Database and Expert Systems Applications (DEXA), Prague, 2013. (Workshop Full Paper)&nbsp;",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/entity_centric_linked_data_graphs_webs_2013.pdf",
+        "doi": ""
+    },
+    {
+        "title": "A Distributional Semantic Search Infrastructure for Linked Dataspaces",
+        "authors": "André Freitas, Sean O&#8217;Riain and Edward Curry,&nbsp;",
+        "booktitle": " In Proceedings of the 10th Extended Semantic Web Conference (ESWC), Montpellier, France, 2013. (Demonstration Paper in Proceedings)&nbsp;",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/distributional_semantic_infrastructure_eswc_2013.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Graphia: Extracting Contextual Relation Graphs from Text",
+        "authors": "Danilo S. Carvalho, André Freitas and&nbsp;João C. Pereira da Silva,&nbsp;",
+        "booktitle": " In Proceedings of the 10th Extended Semantic Web Conference (ESWC), Montpellier, France, 2013.&nbsp;(Demonstration Paper in Proceedings)&nbsp;",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/eswc_graphia_demo_2013.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Crossing the Vocabulary Gap for Querying Complex and Heterogeneous Databases: A Distributional-Compositional Semantics Perspective",
+        "authors": "André Freitas, Sean O&#8217;Riain and Edward Curry,&nbsp;",
+        "booktitle": " 3rd Workshop on Data Extraction and Object Search (DEOS), 29th British National Conference on Databases (BNCOD), Oxford, UK, 2013. (Abstract).",
+        "year": 0,
+        "url": "",
+        "doi": ""
+    },
+    {
+        "title": "Extracting Linked Data Graphs from Texts: An Ontology-Agnostic Approach",
+        "authors": "André Freitas, Danilo S. Carvalho, João C. Pereira da Silva,&nbsp;",
+        "booktitle": " 3rd Workshop on Data Extraction and Object Search&nbsp;(DEOS), 29th British National Conference on Databases (BNCOD), Oxford, UK, 2013. (Abstract).",
+        "year": 0,
+        "url": "",
+        "doi": ""
+    },
+    {
+        "title": "Towards a Semantic Representation for Multi-Scale Finite Element Biosimulation Experiments",
+        "authors": "André Freitas, Margaret Jones, Kartik Asooja, Christos Bellos, Steve Elliott, Stefan Stenfelt, Panagiotis Hasapis, Christos Georgousopoulos, Torsten Marquardt, Nenad Filipovic, Stefan Decker, Ratnesh Sahay",
+        "booktitle": "13th IEEE&nbsp; International Conference on BioInformatics and BioEngineering (BIBE), Chania. Greece, 2013. (Conference Paper)",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/semantic-representation_bibe_2013.pdf",
+        "doi": ""
+    },
+    {
+        "title": "A Distributional Structured Semantic Space for Querying RDF Graph Data",
+        "authors": "André Freitas,&nbsp;Edward Curry,&nbsp;João Gabriel Oliveira, Sean O&#8217;Riain,&nbsp;",
+        "booktitle": "&nbsp;International Journal of Semantic Computing (IJSC),&nbsp;2012.&nbsp;(Article)&nbsp;",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/preprint_distributional_structured_space.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Querying Heterogeneous Datasets on the Linked Data Web: Challenges, Approaches and Trends",
+        "authors": "André Freitas,&nbsp;Edward Curry,&nbsp;João Gabriel Oliveira, Sean O&#8217;Riain,&nbsp;",
+        "booktitle": "&nbsp;IEEE Internet Computing,&nbsp;&nbsp;vol. 16, no. 1,&nbsp;p.24-33, 2012.&nbsp;(Article)&nbsp;",
+        "year": 0,
+        "url": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6051410&amp;tag=1",
+        "doi": ""
+    },
+    {
+        "title": "A Distributional Approach for Terminological Semantic Search on the Linked Data Web",
+        "authors": "André Freitas, Edward Curry, Sean O&#8217;Riain,&nbsp;",
+        "booktitle": "&nbsp;In Proceedings of the 27th ACM Symposium On Applied Computing (SAC), Semantic Web and Applications (SWA), 2012.&nbsp;(Conference Full Paper)&nbsp;",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/preprint_terminological_semantic_search.pdf",
+        "doi": ""
+    },
+    {
+        "title": "A Semantic Best-Effort Approach for Extracting Structured Discourse Graphs from Wikipedia",
+        "authors": "André Freitas, Danilo S. Carvalho, João Carlos Pereira da Silva, Sean O&#8217;Riain, Edward Curry,&nbsp;",
+        "booktitle": " In Proceedings of the 1st Workshop on the Web of Linked Entities (WoLE 2012) at the 11th International Semantic Web Conference (ISWC), 2012&nbsp;(Workshop Full Paper)&nbsp;",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/wole2012.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Representing Interoperable Provenance Descriptions for ETL Workflows",
+        "authors": "André Freitas, Benedikt Kämpgen, João Gabriel Oliveira, Sean O&#8217;Riain, Edward Curry,&nbsp;",
+        "booktitle": " ESWC 2012 Workshop Highlights, Lecture Notes in Computer Science (LNCS), Springer Verlag, 2012.&nbsp;(Extended&nbsp; Paper published in Conf. Proceedings.)&nbsp;",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/preprint_provenance_ETL_workflow_eswc_highlights.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Representing Interoperable Provenance Descriptions for ETL Workflows",
+        "authors": "André Freitas, Benedikt Kämpgen, João Gabriel Oliveira, Sean O&#8217;Riain, Edward Curry,&nbsp;",
+        "booktitle": " In Proceedings of the 3rd International Workshop on Role of Semantic Web in Provenance Management (SWPM 2012), Extended Semantic Web Conference (ESWC), Heraklion, Crete, 2012. (Workshop Full Paper)&nbsp;",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/preprint_provenance_ETL_workflow.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Capturing Interactive Data Transformation Operations using Provenance Workflows",
+        "authors": "Tope Omitola, André Freitas, Edward Curry, Sean O&#8217;Riain, Nicholas Gibbins and Nigel Shadbolt.&nbsp;",
+        "booktitle": "&nbsp;ESWC 2012 Workshop Highlights, Lecture Notes in Computer Science (LNCS), Springer Verlag, 2012.&nbsp;(Extended&nbsp; Paper published in Conf. Proceedings)&nbsp;",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/preprint_capturing%20interactive_data_transformation_eswc_highlights.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Capturing Interactive Data Transformation Operations using Provenance Workflows",
+        "authors": "Tope Omitola, André Freitas, Edward Curry, Sean O&#8217;Riain, Nicholas Gibbins and Nigel Shadbolt.&nbsp;",
+        "booktitle": "&nbsp;In Proceedings of the 3rd International Workshop on Role of Semantic Web in Provenance Management (SWPM 2012), Extended Semantic Web Conference (ESWC), Heraklion, Crete, 2012. (Workshop Full Paper)&nbsp;",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/preprint_capturing%20interactive_data_transformation.pdf",
+        "doi": ""
+    },
+    {
+        "title": "A Multidimensional Semantic Space for Data Model Independent Queries over RDF Data",
+        "authors": "André Freitas, João Gabriel Oliveira, Edward Curry, Sean O&#8217;Riain,&nbsp;",
+        "booktitle": "&nbsp;In Proceedings of the 5th International Conference on Semantic Computing (ICSC), 2011.&nbsp;(Conference Full Paper)&nbsp;",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/preprint_multidimensional_ieee_icsc_2011.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Querying Linked Data using Semantic Relatedness: A Vocabulary Independent Approach",
+        "authors": "André Freitas, João Gabriel Oliveira, Sean O&#8217;Riain, Edward Curry, João Carlos Pereira da Silva",
+        "booktitle": "In Proceedings of the 16th International Conference on Applications of Natural Language to Information Systems (NLDB), 2011.&nbsp;(Conference Full Paper)",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/nldb2011_preprint.pdf",
+        "doi": ""
+        },
+    {
+        "title": "Treo: Combining Entity-Search, Spreading Activation and Semantic Relatedness for Querying Linked Data",
+        "authors": "André Freitas, João Gabriel Oliveira, Sean O&#8217;Riain, Edward Curry, João Carlos Pereira da Silva,&nbsp;",
+        "booktitle": " In 1st Workshop on Question Answering over Linked Data (QALD-1) Workshop at 8th Extended Semantic Web Conference (ESWC), 2011 (Workshop Full Paper)&nbsp;",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/qald2011_preprint.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Treo: Best-Effort Natural Language Queries over Linked Data",
+        "authors": "André Freitas, João Gabriel Oliveira, Sean O&#8217;Riain, Edward Curry, João Carlos Pereira da Silva",
+        "booktitle": "In Proceedings of the 16th International Conference on Applications of Natural Language to Information Systems (NLDB), 2011 (Poster in Proceedings)",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/treo_poster_nldb2011_preprint.pdf",
+        "doi": ""
+    },
+    {
+        "title": "The Visibility of the Self on the Web: A Struggle for Recognition",
+        "authors": "Lauane Baroncelli, André Freitas",
+        "booktitle": "In Proceedings of 3<sup>rd</sup>&nbsp;ACM International Conference on Web Science, 2011 (Poster in Proceedings)",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/WebScieence_Baroncelli_Freitas_2011%20FV.pdf",
+        "doi": ""
+    },
+    {
+        "title": "An Approach for Managing and Semantically Enriching the Publication of Linked Open Governmental Data",
+        "authors": "Kelli de Faria&nbsp;Cordeiro,&nbsp;Fabricio&nbsp;Firmino de Faria, Bianca de Oliveira Pereira, André Freitas, João&nbsp;Vitor&nbsp;Villas Boas Freitas, Ana Christina&nbsp;Bringuente, Lucas de Oliveira&nbsp;Arantes, Rodrigo&nbsp;Calhau,&nbsp;Veruska&nbsp;Zamborlini, Maria Luiza Machado Campos, Giancarlo&nbsp;Guizzardi,&nbsp;",
+        "booktitle": " 3rd Workshop of Applied Computing in Electronic Government (WCGE), In WEBMEDIA/SBBD, 2011 (Workshop Full Paper)&nbsp;",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/SBBD-Workshop-eGov-preprint.pdf",
+        "doi": ""
+    },
+    {
+        "title": "Web Quality Assessment Model",
+        "authors": "Tomas Knap, André Freitas, Irena Mlynkova,&nbsp;",
+        "booktitle": "Technical Report, 2011 (Technical Report)",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/tr201102.pdf",
+        "doi": ""
+    },
+    {
+        "title": "W3P: Building an OPM based provenance model for the Web",
+        "authors": "André Freitas, Tomas Knap, Sean O’Riain, Edward Curry",
+        "booktitle": "In Future Generation Computer Systems, 2010. (Article)",
+        "year": 0,
+        "url": "http://www.sciencedirect.com/science/article/pii/S0167739X10002037",
+        "doi": ""
+    },
+    {
+        "title": "Prov4J: A Semantic Web Framework for Generic Provenance Management",
+        "authors": "André Freitas, Arnaud Legendre, Sean O&#8217;Riain, Edward Curry,&nbsp;",
+        "booktitle": " In The Second International Workshop on Role of Semantic Web in Provenance Management (SWPM 2010), Springer, Workshop at International Semantic Web Conference (ISWC), Shanghai, China, 2010. (Workshop Full Paper)&nbsp;",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/Prov4J%20A%20Semantic%20Web%20Framework%20for%20Generic%20Provenance%20Management.pdf",
+        "doi": ""
+    },
+    {
+        "title": "The Role of Community-Driven Data Curation for Enterprises",
+        "authors": "Edward Curry, André Freitas, Sean O’Riain",
+        "booktitle": "In David Wood (ed.), Linking Enterprise Data, Springer, 2010. (Book Chapter)",
+        "year": 0,
+        "url": "http://andrefreitas.org/papers/Community_Curated_Enterprise_preprint.pdf",
+        "doi": ""
+    }
+]
+

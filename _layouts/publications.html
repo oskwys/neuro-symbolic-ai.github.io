@@ -1,0 +1,22 @@
+---
+layout: framework
+---
+
+<h2>Publications</h2>
+
+<ul>
+{% for publ in site.data.publications %}
+    <li>
+        <h4><a href="{{ publ.url }}" target="_blank" style="color:darkslateblue;">{{ publ.title }}</a></h4>
+        <ul style="font-size: 13pt;">
+        <li>Authors: {{ publ.authors }}</li>
+        <li>In: {{ publ.booktitle }}</li>
+        <li>Year: {{ publ.year }}</li>
+
+        {% if publ.doi != null and publ.doi != "" %}
+        <li>DOI: <a href="https://doi.org/{{ publ.doi}}" target="_blank">{{ publ.doi }}</a></li>
+        {% endif %}
+        </ul>
+    </li>
+{% endfor %}
+</ul>

@@ -1,0 +1,55 @@
+home:
+  heading: "The Neuro-symbolic AI Lab"
+  subheading: "Reasoning & Explainable AI"
+  banner: 
+    image: "/assets/images/cropped-banner_lab.svg"
+    height: "240px"
+
+people:
+  heading: "The Neuro-symbolic AI Lab"
+  subheading: "Reasoning & Explainable AI"
+  banner:
+    image: "/assets/images/cropped-banner_lab.svg"
+    height: "240px"
+
+post:
+  heading: "The Neuro-symbolic AI Lab"
+  subheading: "Reasoning & Explainable AI"
+  banner: 
+    image: "/assets/images/cropped-banner_lab.svg"
+    height: "240px"
+
+categories:
+  heading: "The Neuro-symbolic AI Lab"
+  subheading: "Reasoning & Explainable AI"
+  banner: 
+    image: "/assets/images/cropped-banner_lab.svg"
+    height: "240px"
+
+archives:
+  heading: "The Neuro-symbolic AI Lab"
+  subheading: "Reasoning & Explainable AI"
+  banner: 
+    image: "/assets/images/cropped-banner_lab.svg"
+    height: "240px"
+
+tags:
+  heading: "The Neuro-symbolic AI Lab"
+  subheading: "Reasoning & Explainable AI"
+  banner: 
+    image: "/assets/images/cropped-banner_lab.svg"
+    height: "240px"
+
+publications:
+  heading: "The Neuro-symbolic AI Lab"
+  subheading: "Reasoning & Explainable AI"
+  banner: 
+    image: "/assets/images/cropped-banner_lab.svg"
+    height: "240px"
+
+framework:
+  heading: "The Neuro-symbolic AI Lab"
+  subheading: "Reasoning & Explainable AI"
+  banner: 
+    image: "/assets/images/cropped-banner_lab.svg"
+    height: "240px"
