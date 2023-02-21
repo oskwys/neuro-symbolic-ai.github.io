@@ -16,6 +16,10 @@ tags: multi-hop-inference explanation-regeneration sentence-transformers dense-r
 
 Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2022)
 
+**Paper:**
+
+[https://ojs.aaai.org/index.php/AAAI/article/view/21392](https://ojs.aaai.org/index.php/AAAI/article/view/21392)
+
 **Source code:**
 
 [https://github.com/ai-systems/hybrid_autoregressive_inference](https://github.com/ai-systems/hybrid_autoregressive_inference)
