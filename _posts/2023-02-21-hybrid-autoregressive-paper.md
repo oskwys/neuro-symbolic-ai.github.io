@@ -8,7 +8,7 @@ tags: Multi-hop-inference Explanation-based-inference Sentence-transformers AAAI
 
 ## Hybrid Autoregressive Inference for Scalable Multi-hop Explanation Regeneration (AAAI 2022 - Main Track)
 
-Marco Valentino, Mokanarangan Thayaparan, Deborah Ferreira, Andre Freitas
+[Marco Valentino](/people.html#marco.valentino), Mokanarangan Thayaparan, Deborah Ferreira, Andre Freitas
 
 ## Abstract
 
@@ -25,7 +25,9 @@ Our experiments demonstrate that the hybrid framework significantly outperforms 
 
 Welcome! :) 
 
-In this repository, you can find the guideline to reproduce the results obtained by [SCAR](https://arxiv.org/abs/2107.11879) (Scalable Autoregressive Inference) on the [WorldTree Multi-hop Explanation Regeneration Task](https://github.com/umanlp/tg2019task). The public code is accessible at: https://github.com/ai-systems/hybrid_autoregressive_inference and will be migrated soon under https://github.com/neuro-symbolic-ai/.
+In this document, you can find the guideline to reproduce the results obtained by [SCAR](https://arxiv.org/abs/2107.11879) (Scalable Autoregressive Inference) on the [WorldTree Multi-hop Explanation Regeneration Task](https://github.com/umanlp/tg2019task). 
+
+The public code for reproducibility is currently accessible [here](https://github.com/ai-systems/hybrid_autoregressive_inference) and will be migrated soon under https://github.com/neuro-symbolic-ai/.
 
 ## Setup:
 
@@ -82,5 +84,7 @@ We hope you find this repository useful. If you use SCAR in your work, please co
   pages={11403-11411} 
 }
 ```
+
+## Contacts
 
 For any issues or questions, feel free to contact us at marco.valentino@idiap.ch
