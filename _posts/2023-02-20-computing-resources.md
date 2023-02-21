@@ -35,6 +35,6 @@ The password is the same as your university IT systems one.
 
 Idiap provides researchers with access to a centralised computational facility.
 
-A complete description on the available resources and guidelines on how to use them is available on the [Idiap Intranet](https://secure.idiap.ch/intranet/system/computing/ComputationGrid).
+You can find a complete description of the available resources along with guidelines to use them on the [Idiap Intranet](https://secure.idiap.ch/intranet/system/computing/ComputationGrid).
 
-Useful documentation on how to setup your working environment (including Pytorch) is available [here](https://lab.idiap.ch/devel/local/sq/practical/env.html).
+A very useful documentation on how to setup your working environment (including Pytorch) is available [here](https://lab.idiap.ch/devel/local/sq/practical/env.html).
