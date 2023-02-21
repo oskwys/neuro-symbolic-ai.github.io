@@ -30,3 +30,11 @@ ssh <username>@decmtcsaiml<num>.cs.man.ac.uk
 
 where `<username>` is the university username and `<num>` is the server number.<br/>
 The password is the same as your university IT systems one.
+
+## Idiap Computational Resources
+
+Idiap provides researchers with access to a centralised computational facility.
+
+You can find a complete description of the available resources along with guidelines to use them on the [Idiap Intranet](https://secure.idiap.ch/intranet/system/computing/ComputationGrid).
+
+A very useful documentation on how to setup your working environment (including Pytorch) is available [here](https://lab.idiap.ch/devel/local/sq/practical/env.html).

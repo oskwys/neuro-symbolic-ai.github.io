@@ -38,9 +38,8 @@
         "name": "Marco Valentino",
         "position": "Post-doctoral Researcher",
         "photo": "marco.webp",
-        "e-mail": "",
-        "bio": "Marco is a PhD student in Computer Science at the University of Manchester. His main research topic is the development of explainable reasoning models for natural language inference in the scientific domain. Before starting his PhD, Marco was a research assistant at the Consiglio Nazionale delle Ricerche (CNR) in Italy. He obtained both master and bachelor’s degree in Computer Science at the University of Naples Federico II."
-    },
+        "e-mail": "marco.valentino",
+        "bio": "Marco Valentino is a postdoctoral researcher at the Idiap Research Institute. His main research activity focuses on Explainability and Natural Language Inference, investigating the construction of models capable of performing reasoning through the generation of natural language explanations in complex domains. To this end, he draws inspiration from theories and accounts of explanations in Cognitive Science and Philosophy, attempting to capture explanatory inference patterns in hybrid neuro-symbolic models to improve generalization and scalability."            },
     {
         "name": "Guy Clarke Marshall",
         "position": "PhD Researcher",
