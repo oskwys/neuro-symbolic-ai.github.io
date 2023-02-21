@@ -29,7 +29,7 @@ In this document, you can find the guideline to reproduce the results obtained b
 
 The public code for reproducibility is currently accessible [here](https://github.com/ai-systems/hybrid_autoregressive_inference) and will be migrated soon under https://github.com/neuro-symbolic-ai/.
 
-## Setup:
+**Setup:**
 
 Install the [sentence-transformers](https://www.sbert.net/) package:
 
@@ -39,7 +39,7 @@ Install the [faiss-gpu](https://pypi.org/project/faiss-gpu/) package:
 
 `pip install faiss-gpu`
 
-## Dense Encoder:
+## Dense Encoder
 
 The pre-trained Sentence-BERT bi-encoder used in our experiments can be downloaded [here!](https://drive.google.com/file/d/1iz38q8EIYZdO9U7mAMVz1qUprU8jmEwI/view?usp=sharing)
 
@@ -51,7 +51,7 @@ If you want to train the dense encoder from scratch, you can use the released `t
 
 If needed, you can regenerate the training-set using the `extract_chains.py` script.
 
-## Multi-hop Explanation Regeneration Experiment:
+## Multi-hop Explanation Regeneration Experiment
 
 Once the dense model is downloaded and unzipped in the apposite folder, run the following command to start the experiment:
 
