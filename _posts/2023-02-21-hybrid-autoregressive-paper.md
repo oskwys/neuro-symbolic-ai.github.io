@@ -18,7 +18,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2022)
 
 **Source code:**
 
-https://github.com/ai-systems/hybrid_autoregressive_inference
+[https://github.com/ai-systems/hybrid_autoregressive_inference](https://github.com/ai-systems/hybrid_autoregressive_inference)
 
 ## Abstract
 
