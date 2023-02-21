@@ -6,9 +6,19 @@ categories: Publications
 tags: multi-hop-inference explanation-regeneration sentence-transformers dense-retrieval hybrid-model AAAI2022
 ---
 
-## Hybrid Autoregressive Inference for Scalable Multi-hop Explanation Regeneration (AAAI 2022 - Main Track)
+## Hybrid Autoregressive Inference for Scalable Multi-hop Explanation Regeneration
+
+**Authors:**
 
 [Marco Valentino](/people.html#marco.valentino), Mokanarangan Thayaparan, Deborah Ferreira, Andre Freitas
+
+**Venue:**
+
+Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2022)
+
+**Source code:**
+
+https://github.com/ai-systems/hybrid_autoregressive_inference
 
 ## Abstract
 
