@@ -40,7 +40,7 @@ Welcome! :)
 
 In this document, you can find the guidlines to reproduce the [CB-ANLI model](https://aclanthology.org/2022.coling-1.134/) presented at COLING 2022.
 
-## Setup:
+**Setup:**
 
 Install the [sentence-transformers](https://www.sbert.net/) package:
 
@@ -82,5 +82,7 @@ We hope you find this document useful. If you use CB-ANLI in your work, please c
     pages = "1556--1568"
 }
 ```
+
+## Contacts
 
 For any issues or questions, feel free to contact us at marco.valentino@idiap.ch
