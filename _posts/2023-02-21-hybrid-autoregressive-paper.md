@@ -3,7 +3,7 @@ layout: post
 title:  "Hybrid Autoregressive Inference for Scalable Multi-hop Explanation Regeneration"
 date:   2023-02-21 09:43:00 +0000
 categories: Publications
-tags: Multi-hop-inference Explanation-based-inference Sentence-transformers AAAI2022
+tags: multi-hop-inference explanation-regeneration sentence-transformers dense-retrieval hybrid-model AAAI2022
 ---
 
 ## Hybrid Autoregressive Inference for Scalable Multi-hop Explanation Regeneration (AAAI 2022 - Main Track)
