@@ -71,7 +71,7 @@ tags: Starter Conferences Journals
 </script>
 
 <p style="font-size: 16pt;"> 
-    This is a list of important conferences and journals that you may want to submit your papers to, ordered by the closest deadline. <br/>
+    This is a non-exhaustive list of important conferences and journals that you may want to submit your papers to, ordered by the closest deadline. Use the provided submission template and create your code repository based on the <a href="/kb.html#h-Publications" style="color: darkslateblue;">examples</a>.<br/>
     Deadlines closer than a month are marked in <span style="color: #CC0000;">red</span>.
 </p>
 
