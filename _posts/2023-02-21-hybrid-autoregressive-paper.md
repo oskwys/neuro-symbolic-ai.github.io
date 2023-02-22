@@ -37,8 +37,6 @@ Our experiments demonstrate that the hybrid framework significantly outperforms 
 
 ## Reproducibility
 
-Welcome! :) 
-
 In this document, you can find the guideline to reproduce the results obtained by [SCAR](https://arxiv.org/abs/2107.11879) (Scalable Autoregressive Inference) on the [WorldTree Multi-hop Explanation Regeneration Task](https://github.com/umanlp/tg2019task). 
 
 The public code for reproducibility is currently accessible [here](https://github.com/ai-systems/hybrid_autoregressive_inference) and will be migrated soon under https://github.com/neuro-symbolic-ai/.
