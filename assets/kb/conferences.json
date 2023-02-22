@@ -1,0 +1,152 @@
+[
+    {
+        "name": "European Chapter of the Association for Computational Linguistics (EACL)",
+        "deadline": "",
+        "url": "https://2023.eacl.org/",
+        "template": "https://www.overleaf.com/latex/templates/eacl-2023-proceedings-template/fvjkskgsmgnh"
+    },
+    {
+        "name": "International Joint Conference in Artificial Intelligence (IJCAI)",
+        "deadline": "",
+        "url": "https://ijcai-23.org/",
+        "template": "https://www.ijcai.org/sites/default/files/Guidelines/FormattingGuidelines-IJCAI-23.zip"
+    },
+    {
+        "name": "International Conference on Machine Learning (ICML)",
+        "deadline": "",
+        "url": "https://icml.cc/Conferences/2023",
+        "template": "https://media.icml.cc/Conferences/ICML2023/Styles/icml2023.zip"
+    },
+    {
+        "name": "International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)",
+        "deadline": "",
+        "url": "",
+        "template": "https://www.overleaf.com/gallery/tagged/acm-official"
+    },
+    {
+        "name": "Annual Meeting of the Association for Computational Linguistics (ACL)",
+        "deadline": "",
+        "url": "https://2023.aclweb.org/",
+        "template": "https://2023.aclweb.org/downloads/acl2023.zip"
+    },
+    {
+        "name": "Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)",
+        "deadline": "",
+        "url": "",
+        "template": ""
+    },
+    {
+        "name": "International Conference on Artificial Intelligence and Statistics (AISTATS)",
+        "deadline": "",
+        "url": "",
+        "template": ""
+    },
+    {
+        "name": "International Conference on Learning Representations (ICLR)",
+        "deadline": "",
+        "url": "https://iclr.cc/Conferences/2023",
+        "template": "https://github.com/ICLR/Master-Template/raw/master/iclr2023.zip"
+    },
+    {
+        "name": "AAAI Conference on Artificial Intelligence",
+        "deadline": "",
+        "url": "https://aaai-23.aaai.org/",
+        "template": "https://www.aaai.org/Publications/Templates/AuthorKit23.zip"
+    },
+    {
+        "name": "Asian Conference on Machine Learning (ACML)",
+        "deadline": "",
+        "url": "https://www.acml-conf.org/2022/",
+        "template": "https://www.acml-conf.org/2022/assets/ACML2022-camera_ready-template.zip"
+    },
+    {
+        "name": "Conference on Empirical Methods in Natural Language (EMNLP)",
+        "deadline": "",
+        "url": "https://2022.emnlp.org/",
+        "template": "https://2022.emnlp.org/downloads/emnlp2022-latex.zip"
+    },
+    {
+        "name": "International Conference on Computational Linguistics (COLING)",
+        "deadline": "",
+        "url": "https://coling2022.org/",
+        "template": "https://github.com/acl-org/acl-style-files"
+    },
+    {
+        "name": "Conference on Neural Information Processing Systems (NeurIPS)",
+        "deadline": "2023-05-11",
+        "url": "https://neurips.cc/Conferences/2023/",
+        "template": "https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles"
+    },
+    {
+        "name": "Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL)",
+        "deadline": "",
+        "url": "https://www.aacl2022.org/",
+        "template": "https://github.com/acl-org/acl-style-files"
+    },
+    {
+        "name": "International Conference on Principles of Knowledge Representation and Reasoning (KR)",
+        "deadline": "",
+        "url": "",
+        "template": ""
+    },
+    {
+        "name": " Extended Semantic Web Conference (ESWC)",
+        "deadline": "",
+        "url": "https://2023.eswc-conferences.org/",
+        "template": "https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi"
+    },
+    {
+        "name": "Language Resources and Evaluation Conference (LREC)",
+        "deadline": "",
+        "url": "https://lrec2022.lrec-conf.org/en/",
+        "template": "https://lrec2022.lrec-conf.org/media/filer_public/16/8e/168e56e8-fb15-4213-bfbb-9e64de6b0bc9/lrec_2022_latex_template.zip"
+    },
+    {
+        "name": "International Conference on Natural Language &amp; Information Systems (NLDB)",
+        "deadline": "2023-03-14",
+        "url": "https://www.derby.ac.uk/events/latest-events/nldb-2023/",
+        "template": "https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi"
+    },
+    {
+        "name": "International Conference on Natural Language Generation (INLG)",
+        "deadline": "",
+        "url": "",
+        "template": ""
+    },
+    {
+        "name": "IEEE International Conference on Semantic Computing (ICSC)",
+        "deadline": "2023-10-15",
+        "url": "https://www.ieee-icsc.org/",
+        "template": "https://www.ieee.org/conferences/publishing/templates.html["
+    },
+    {
+        "name": "Annual Conference of The European Association for Machine Translation",
+        "deadline": "2023-03-03",
+        "url": "https://events.tuni.fi/eamt23/",
+        "template": "https://www.overleaf.com/read/mkjbkppndvxw"
+    },
+    {
+        "name": " International Conference on Computational Semantics (IWCS)",
+        "deadline": "2023-03-15",
+        "url": "iwcs2023.loria.fr",
+        "template": "https://www.overleaf.com/latex/templates/instructions-for-iwcs-2021-proceedings/fpnsyxqqpfbw"
+    },
+    {
+        "name": "Joint Conference on Lexical and Computational Semantics",
+        "deadline": "2023-03-18",
+        "url": "https://sites.google.com/view/starsem2023",
+        "template": "https://github.com/acl-org/acl-style-files"
+    },
+    {
+        "name": "Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL) and the 16th International Natural Language Generation Conference (INLG)",
+        "deadline": "2023-05-15",
+        "url": "https://2023.sigdial.org/",
+        "template": ""
+    },
+    {
+        "name": "",
+        "deadline": "",
+        "url": "",
+        "template": ""
+    }
+]

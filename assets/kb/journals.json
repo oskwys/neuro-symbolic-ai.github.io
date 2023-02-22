@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Transactions of the Association for Computational Linguistics (TACL)",
+        "deadline": "",
+        "url": "https://transacl.org/index.php/tacl",
+        "template": "https://www.overleaf.com/read/yxyxfpfytdfn"
+    },
+    {
+        "name": "Computational Linguistics",
+        "deadline": "",
+        "url": "https://direct.mit.edu/coli",
+        "template": "https://cljournal.org/style.html"
+    }
+]
