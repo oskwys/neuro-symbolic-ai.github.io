@@ -50,7 +50,8 @@ To set up a python environment for ML with libraries, we suggest a user install 
 If you need an application or library that is not available in the server, please contact [Danilo Carvalho](/people.html#danilo.carvalho) (Goggins 01/02) or [Alex Bogatu](/people.html#alex.bogatu) (Goggins 04), with relevant information about the software needed. 
 
 
-## Idiap Computational Resources
+## Idiap Computational Resources 
+**(*Idiap members only)**
 
 Idiap provides researchers with access to a centralised computational facility.
 
