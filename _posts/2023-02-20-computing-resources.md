@@ -31,11 +31,13 @@ ssh <username>@decmtcsaiml<num>.cs.man.ac.uk
 where `<username>` is the university username and `<num>` is the server number.<br/>
 The password is the same as your university IT systems one.
 
+#### Storage
+
 The servers have 3 storage spaces available to the users:
 
-* Home: Very small space available (~5GB). Use for config files and project/library symlinks.
-* Scratch: SSD storage, ~100GB p/ user, accessible by *$HOME/scratch/*. Use for code or data files requiring speed.
-* Data: HDD storage, ~300GB p/ user, accessible by *$HOME/data/*. Use for bigger data files or archival.
+* **Home**: Very small space available (~5GB). Use for config files and project/library symlinks.
+* **Scratch**: SSD storage, ~100GB p/ user, accessible by *$HOME/scratch/*. Use for code or data files requiring speed.
+* **Data**: HDD storage, ~300GB p/ user, accessible by *$HOME/data/*. Use for bigger data files or archival.
 
 While storage quotas are not strictly enforced, exceeding them may result in **loss of data**. 
 
