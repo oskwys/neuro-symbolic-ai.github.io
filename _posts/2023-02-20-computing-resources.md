@@ -39,7 +39,15 @@ The servers have 3 storage spaces available to the users:
 * **Scratch**: SSD storage, ~100GB p/ user, accessible by *$HOME/scratch/*. Use for code or data files requiring speed.
 * **Data**: HDD storage, ~300GB p/ user, accessible by *$HOME/data/*. Use for bigger data files or archival.
 
-While storage quotas are not strictly enforced, exceeding them may result in **loss of data**. 
+While storage quotas are not strictly enforced, exceeding them may result in **loss of data**.
+
+#### Runtimes & Libraries
+
+All servers have the *build-essentials* (C/C++), *python* (>= 3.6) and *OpenJRE 11* (java) packages installed.
+
+To set up a python environment for ML with libraries, we suggest a user install of [Anaconda](https://www.anaconda.com/) with any needed packages in one or more virtual envs.
+
+If you need an application or library that is not available in the server, please contact [Danilo Carvalho](/people.html#danilo.carvalho) (Goggins 01/02) or [Alex Bogatu](/people.html#alex.bogatu) (Goggins 04), with relevant information about the software needed. 
 
 
 ## Idiap Computational Resources
