@@ -39,6 +39,7 @@ The servers have 3 storage spaces available to the users:
 
 While storage quotas are not strictly enforced, exceeding them may result in **loss of data**. 
 
+
 ## Idiap Computational Resources
 
 Idiap provides researchers with access to a centralised computational facility.
