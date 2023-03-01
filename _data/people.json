@@ -76,6 +76,13 @@
         "bio": "Julia Rozanova is a PhD student in Computer Science at the University of Manchester working at the interface between neural representations and logical inference. Her main research interests are in natural language inference, natural logic and probing methods. Julia has a BSc and MSc in Maths."
     },
     {
+        "name": "Mael Jullien",
+        "position": "PhD Researcher",
+        "photo": "mael.jpg",
+        "e-mail": "mael.jullien@postgrad.manchester.ac.uk",
+        "bio": "Mael Jullien is a Ph.D. student at the department of Computer Science at the University of Manchester. He obtained his MSc in Computer Science and Artificial Intelligence from the University of Nottingham and a BSc in Mathematics from the University of Leicester, both with distinction. Currently researching Natural Language Inference  in the clinical domain, using hybrid neuro-symbolic models."
+    },
+    {
         "name": "Mario Ramirez",
         "position": "PhD Researcher",
         "photo": "mario.webp",
@@ -110,6 +117,13 @@
         "e-mail": "",
         "bio": "Philip is a doctoral student at the University of Manchester with a Masters Degree in Data Science and Bachelors Degree in Mathematics. The primary focus of his research relates to the application of Reinforcement Learning to Real-World Tasks with the integration of Natural Language. Philip first applied Reinforcement Learning in a commercial environment with his Master’s dissertation has demonstrated some of his other ideas publicly including meal planning and recommending strategy decisions within a popular video game. The public demonstrations have gained notoriety within the data science community, including two separate monetary awards from Kaggle (Google) for their novelty."
     },
+    {
+        "name": "Xin Quan",
+        "position": "PhD Researcher",
+        "photo": "xin.png",
+        "e-mail": "",
+        "bio": "Xin Quan is a PhD student at the Department of Computer Science at the University of Manchester. He obtained BSc in Computer Science with Management with specialisation in Artificical Intelligence and MSc in Artificial Intelligence at King's College London. His main research interests are in ethical reasoning, multi-hop reasoning and natural language inference for ethical statements."
+    }
     {
         "name": "Magdalena Wysocka",
         "position": "Visiting Researcher",
