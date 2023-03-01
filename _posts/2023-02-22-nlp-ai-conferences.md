@@ -20,10 +20,9 @@ tags: Starter Conferences Journals
             if (evt.template != "") {
                 deadline = new Date(evt.deadline);
                 var row = document.createElement("tr");
-                row.style.color = "darkslateblue";
                 var col_name = document.createElement("td");
                 col_name.style.textAlign = "left";
-                col_name.innerHTML = "<a href=\"" + evt.url + "\" style=\"color: darkslateblue;\">" + evt.name + "</a>";
+                col_name.innerHTML = "<a href=\"" + evt.url + "\">" + evt.name + "</a>";
 
                 var col_deadline = document.createElement("td");
                 col_deadline.style.textAlign = "center";
@@ -37,7 +36,7 @@ tags: Starter Conferences Journals
 
                 var col_template = document.createElement("td");
                 col_template.style.textAlign = "center";
-                col_template.innerHTML = "<a href=\"" + evt.template + "\" style=\"color: darkslateblue;\">LaTeX</a>";
+                col_template.innerHTML = "<a href=\"" + evt.template + "\">LaTeX</a>";
 
                 row.appendChild(col_name);
                 row.appendChild(col_deadline);
