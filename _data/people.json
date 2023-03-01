@@ -116,5 +116,10 @@
         "photo": "magdalena.webp",
         "e-mail": "",
         "bio": "Magdalena Wysocka is currently on an internship at the Department of Computer Science at the University of Manchester. She obtained MSc and BSc in Biomedical Engineering with specialisation in Computer Science and Chemistry in Medicine at the Gdańsk University of Technology in Poland, both with distinction. Before joining AI Systems Lab she took part in a two years project on the whole genome analysis and antimicrobial resistance at the Department of Genetics at the University of Leicester. Currently she works on feature selection methods in medical applications. She is finishing her PhD dissertation on virulence profile and genome analysis of Klebsiella isolates recovered from renal transplant patients. Vegetarian with a BA in Clinical Nutrition and travel lover with forty countries on the list."
-    }
+    },
+    {"name": "Mael Jullien",
+     "position": "PhD Researcher",
+     "photo": "mael.jpg",
+     "e-mail": "mael.jullien@postgrad.manchester.ac.uk",
+     "bio": "Mael Jullien is a Ph.D. student at the department of Computer Science at the University of Manchester. He obtained his MSc in Computer Science and Artificial Intelligence from the University of Nottingham and a BSc in Mathematics from the University of Leicester, both with distinction. Currently researching Natural Language Inference  in the clinical domain, using hybrid neuro-symbolic models.
 ]
