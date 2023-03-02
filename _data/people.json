@@ -39,7 +39,8 @@
         "position": "Post-doctoral Researcher",
         "photo": "marco.webp",
         "e-mail": "marco.valentino",
-        "bio": "Marco Valentino is a postdoctoral researcher at the Idiap Research Institute. His main research activity focuses on Explainability and Natural Language Inference, investigating the construction of models capable of performing reasoning through the generation of natural language explanations in complex domains. To this end, he draws inspiration from theories and accounts of explanations in Cognitive Science and Philosophy, attempting to capture explanatory inference patterns in hybrid neuro-symbolic models to improve generalization and scalability."            },
+        "bio": "Marco is currently a Postdoctoral Researcher at the Idiap Research Institute. He holds a PhD in Computer Science from the University of Manchester with a thesis titled "Explanation-Based Scientific Natural Language Inference". Marco's main research activity focuses on Explainability and Natural Language Inference, investigating the construction of models capable of performing reasoning through the generation of natural language explanations in complex domains. To this end, he draws inspiration from theories and accounts of explanations, attempting to capture explanatory inference patterns in hybrid neuro-symbolic models to improve generalization, controllability and scalability."
+    }
     {
         "name": "Guy Clarke Marshall",
         "position": "PhD Researcher",
