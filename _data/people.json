@@ -106,10 +106,12 @@
     },
     {
         "name": "Oskar Wysocki",
-        "position": "PhD Researcher",
-        "photo": "oskar.webp",
-        "e-mail": "",
-        "bio": "Oskar Wysocki is a postdoc at the Department of Computer Science at the University of Manchester and at the Digital Experimental Cancer Medicine Team (dECMT). He obtained BSc in Civil Engineering and MSc in Mechanical Engineering at the Gdańsk University of Technology in Poland, both with distinction. Before joining AI Systems Lab he worked at De Montfort University in Leicester on 3D objects segmentation algorithms. Prior to that, Oskar gained 3 years of industrial experience working as mechanical designer and data analyst. Currently he works on clinical decision support systems which incorporate predictive models and expert knowledge, with a strong focus on medical imaging. In the meantime, he is finishing his PhD dissertation on predictive models in machine exploitation."
+        "position": "Post-doctoral Researcher",
+        "photo": "oskar.jpg",
+        "e-mail": "oskar.wysocki@manchester.ac.uk",
+        "bio": "Oskar Wysocki is a postdoctoral researcher at the Department of Computer Science at the University of Manchester and at the Digital Experimental Cancer Medicine Team (dECMT), CRUK Manchester Institute. He obtained his PhD (Gdańsk University of Technology) in the area of predictive modeling.
+Before joining  the University of Manchester, Oskar gained 3 years of industrial experience working as mechanical designer and data analyst, and then worked as researcher at De Montfort University, Leicester, UK. His main research interests are on biologically informed models, which incorporate domain knowledge and lead to interpretable and trustworthy inference. Currently he works on deep learning models for cancer and large language models to support new biomarker discovery and better patient stratification in clinical trials.
+"
     },
     {
         "name": "Philip Osborne",
@@ -134,7 +136,7 @@
     },
     {
         "name": "Magdalena Wysocka",
-        "position": "Visiting Researcher",
+        "position": Post-doctoral Researcher",
         "photo": "magdalena.webp",
         "e-mail": "",
         "bio": "Magdalena Wysocka is currently on an internship at the Department of Computer Science at the University of Manchester. She obtained MSc and BSc in Biomedical Engineering with specialisation in Computer Science and Chemistry in Medicine at the Gdańsk University of Technology in Poland, both with distinction. Before joining AI Systems Lab she took part in a two years project on the whole genome analysis and antimicrobial resistance at the Department of Genetics at the University of Leicester. Currently she works on feature selection methods in medical applications. She is finishing her PhD dissertation on virulence profile and genome analysis of Klebsiella isolates recovered from renal transplant patients. Vegetarian with a BA in Clinical Nutrition and travel lover with forty countries on the list."
